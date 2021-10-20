@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+}
+
+.ruutu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    border: 3px solid blanchedalmond;
+}
+
+.care {
+    top: 10px;
+    left: 25px;
+    font-size: 150px;
+    color: orange;
+    font-family: -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.dare {
+    writing-mode: vertical-lr;
+    top: 10px;
+    left: 25px;
+    font-size: 150px;
+    color: green;
+    font-family: -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+     'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 1px;
+}
+
+.to {
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+    width: 190px;
+    height: 185px;
+    -ms-transform: rotate(43deg); 
+    transform: rotate(43deg);
+    font-family: -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.share {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    top: 10px;
+    left: 25px;
+    font-size: 150px;
+    color: yellow;
+    font-family: -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+     'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 1px;
+}
